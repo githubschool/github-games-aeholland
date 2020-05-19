@@ -1,0 +1,2 @@
+*.js @js-team
+/test/*.js @qa-js
